@@ -1,2 +1,2 @@
-# smartthings
-Repository for SmarThings Apps
+# SmartThings
+Repository for SmartThings Apps
